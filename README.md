@@ -8,14 +8,14 @@ A simple clock with a TFT display, obtains time from NTP via the Internet.
 
 ## Connection:
 
-ESP32 – LCD
-GND - GND
-3V3 - VCC
-3V3 - BL
-GPIO3 – RST
-GPIO2 – DC
-GPIO7 – CS
-GPIO4 - CLK
-GPIO6 - DIN
+ESP32 – LCD<br>
+GND - GND<br>
+3V3 - VCC<br>
+3V3 - BL<br>
+GPIO3 – RST<br>
+GPIO2 – DC<br>
+GPIO7 – CS<br>
+GPIO4 - CLK<br>
+GPIO6 - DIN<br>
 
 <i>This program was designed for the Arduino IDE C++.</i>
