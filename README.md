@@ -1,5 +1,7 @@
-# NTP-clock-TFT
-A simple clock with a TFT display, obtains time from NTP via the Internet.
+# NTP-clock-TFT v3
+The clock retrieves time from NTP and weather data from https://open-meteo.com.
+
+It displays the local time and date, as well as the temperature and pressure from the location specified in the configuration.
 
 <img src="ntpclock.jpg" width=30%><br>
 
