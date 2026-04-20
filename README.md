@@ -1,4 +1,4 @@
-# NTP-clock-TFT v3
+# NTP-clock-TFT v2
 The clock retrieves time from NTP and weather data from https://open-meteo.com.
 
 It displays the local time and date, as well as the temperature and pressure from the location specified in the configuration.
